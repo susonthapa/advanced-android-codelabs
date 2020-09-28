@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/googlecodelabs/android-testing.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "starter_code"]
+	remote = origin
+	merge = refs/heads/starter_code
+[branch "end_codelab_1"]
+	remote = origin
+	merge = refs/heads/end_codelab_1
+[branch "end_codelab_2"]
+	remote = origin
+	merge = refs/heads/end_codelab_2

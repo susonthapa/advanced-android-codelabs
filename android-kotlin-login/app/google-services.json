@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "98823044210",
+    "firebase_url": "https://advanced-kotlin-codelabs.firebaseio.com",
+    "project_id": "advanced-kotlin-codelabs",
+    "storage_bucket": "advanced-kotlin-codelabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98823044210:android:cfba55b08eb723f1b956eb",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98823044210-9f99vml59hjn6074ekgdivcvv9u0bhmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseui_login_sample",
+            "certificate_hash": "5f2e48fb3e04a69cbe53cd83ee3a8d4ae87c936a"
+          }
+        },
+        {
+          "client_id": "98823044210-ir72s4i1v59op94s90im67klaeugn439.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQaYdq2CmdO__CHOeEeo6EmNiOGkTAik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98823044210-ir72s4i1v59op94s90im67klaeugn439.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
